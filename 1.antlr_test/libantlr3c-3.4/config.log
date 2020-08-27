@@ -1200,6 +1200,7 @@ on liuchenxu-G5-5587
 
 config.status:1087: creating Makefile
 config.status:1087: creating antlr3config.h
+config.status:1267: antlr3config.h is unchanged
 config.status:1315: executing depfiles commands
 config.status:1315: executing libtool commands
 

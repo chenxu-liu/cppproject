@@ -12,5 +12,4 @@
         def g = a + 20;
     }
     def f = a + 12;
-    print a+b;
 }
